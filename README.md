@@ -1,4 +1,5 @@
 This amazing app is sending last coin news from https://newsapi.org to numbers by using Twilio SMS
+Translating fetched data to Turkish before send
 
 
 
